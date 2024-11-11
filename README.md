@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm mxd<br><br>- 📚 I'm currently learning cybersecurity<br>- ⚡ In my free time I do frontend developing</p>
+<p align="left">I'm mxd<br><br>- 📚 CS highschooler<br>- ⚡ Fullstack amateur dev</p>
 
 ###
 
