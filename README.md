@@ -9,14 +9,14 @@
 
 ###
 
-<p align="left">- 📚 CS highschooler<br>- ⚡ Fullstack amateur dev</p>
+<p align="left">- CS highschooler<br>- Fullstack amateur dev</p>
 
 ###
 
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">stats :</h3>
 
 ###
 
