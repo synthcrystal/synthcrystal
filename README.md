@@ -1,15 +1,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
 
 ###
 
-<p align="left">I'm mxd<br><br>- 📚 CS highschooler<br>- ⚡ Fullstack amateur dev</p>
+<p align="left"><br><br>- 📚 CS highschooler<br>- ⚡ Fullstack amateur dev</p>
 
 ###
 
