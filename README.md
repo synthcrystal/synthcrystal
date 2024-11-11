@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left"><br><br>- 📚 CS highschooler<br>- ⚡ Fullstack amateur dev</p>
+<p align="left">- 📚 CS highschooler<br>- ⚡ Fullstack amateur dev</p>
 
 ###
 
